@@ -24,7 +24,7 @@
         "display4Font": "Roboto",
         "display4Size": 0.9,
         "isRoundedButtons": true,
-        "isScrollToTopButton": true,
+        "isScrollToTopButton": false,
         "arrowColor": "#0dcd7b"
       },
       "additionalSetColors": []
